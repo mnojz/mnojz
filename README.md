@@ -1,3 +1,5 @@
+<html>
+<body>
 <div class="wrapper">
     <div class="typing-demo">
       Hi, I am Manoj Joshi
@@ -32,4 +34,6 @@
     border-color: transparent
   }
 }
-</style>
+</style>    
+</body>
+</html>
