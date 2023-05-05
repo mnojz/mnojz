@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C+I+am+Manoj+Joshi;)](https://git.io/typing-svg)
