@@ -4,11 +4,11 @@
 
 # 👋 Hi
 
-i am **manoj joshi**, I'm a student and aspiring web developer based in Nepal, passionate about learning and building cool things with code.
+### i am **manoj joshi**, I'm a student and aspiring web developer based in Nepal, passionate about learning and building cool things with code.
 
-Currently, I'm diving into the exciting world of web development, exploring **web technologies** to create engaging and interactive websites.
+### Currently, I'm diving into the exciting world of web development, exploring **web technologies** to create engaging and interactive websites.
 
->**Future Goal:** contributing to open source.
+>#### **Future Goal:** contributing to open source.
 <br>
  
 
