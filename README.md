@@ -14,11 +14,11 @@
 
 # 💻 Tech Stack:
 <div style="text-align:center">
-![C](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/c.png "c") 
-![CSS3](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/css3.png) 
-![HTML5](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/html.png) 
-![JavaScript](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/js.png)
-![Python](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/python.png) 
-![Figma](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/figma.png) 
-![LINUX](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/linux.png)
+<img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/c.png" alt="c">
+<img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/css3.png" alt="css">
+<img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/html.png" alt="html">
+<img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/js.png" alt="javascript">
+<img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/python.png" alt="python">
+<img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/figma.png" alt="figma">
+<img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/linux.png" alt="linux">
 </div>
