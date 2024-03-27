@@ -13,7 +13,7 @@
  
 
 # 💻 Tech Stack:
-<center>
+<div align="center">
 <img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/c.png" alt="c">
 <img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/css3.png" alt="css">
 <img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/html.png" alt="html">
@@ -21,4 +21,4 @@
 <img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/python.png" alt="python">
 <img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/figma.png" alt="figma">
 <img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/linux.png" alt="linux">
-</center>
+</div>
