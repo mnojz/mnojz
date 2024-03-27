@@ -8,7 +8,7 @@
 
 ### Currently, I'm diving into the exciting world of web development, exploring **web technologies** to create engaging and interactive websites.
 
->#### **Future Goal:** contributing to open source.
+> **Future Goal:** contributing to open source.
 <br>
  
 
