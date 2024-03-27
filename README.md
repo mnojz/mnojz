@@ -13,7 +13,7 @@
  
 
 # 💻 Tech Stack:
-<h1 align="center">
+<div align="center">
 ![C](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/c.png) 
 ![CSS3](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/css3.png) 
 ![HTML5](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/html.png) 
@@ -21,4 +21,4 @@
 ![Python](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/python.png) 
 ![Figma](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/figma.png) 
 ![LINUX](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/linux.png)
-</h1>
+</div>
