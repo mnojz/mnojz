@@ -1,9 +1,8 @@
-<h1 align="center">
-  <a href="https://github.com/hello-manoj">
-    <img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/name.svg" alt="manoj joshi">
-  </a>
+<h1 align="center">  
+    <img src="https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/name.svg" alt="manoj joshi">  
 </h1>
-<hr size=10 style="background:red">
+
+##Hi👋
 <br>
 
 # 💻 Tech Stack:
