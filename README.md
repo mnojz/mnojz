@@ -14,7 +14,7 @@
 
 # 💻 Tech Stack:
 <div style="text-align:center">
-![C](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/c.png) 
+![C](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/c.png "c") 
 ![CSS3](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/css3.png) 
 ![HTML5](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/html.png) 
 ![JavaScript](https://raw.githubusercontent.com/hello-manoj/hello-manoj/main/techStack/js.png)
