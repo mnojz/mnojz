@@ -4,7 +4,7 @@
 
 # 👋 Hi
 
-#### i am **<span style="color:#00ffff">manoj joshi</span>**, student and aspiring web developer from Nepal, 
+#### i am **<span style="color:#00ffff">manoj joshi</span>**, student and aspiring Engineer from Nepal, 
 <br>
 
 > **<span style="color:#00ff88">Future Goal:</span>** contributing to open source.
