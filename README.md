@@ -61,6 +61,6 @@ life()
 
 <div align=center>
 
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=funny&border_width=0)](https://github.com/cheehwatang/github-readme-daily-quotes)
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=programming&border_width=0)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 </div>
