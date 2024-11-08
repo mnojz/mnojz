@@ -53,7 +53,7 @@ life()
 
 <div align=center>
 
-![MJ10XD's Streak](https://github-readme-streak-stats.herokuapp.com/?user=manoj-here&theme=tokyonight&hide_border=true)
+![my Streak](https://github-readme-streak-stats.herokuapp.com/?user=manoj-here&theme=tokyonight&hide_border=true)
 
 </div>
 
