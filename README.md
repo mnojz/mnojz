@@ -22,10 +22,7 @@
 ## <div align=center>🤝Let's Connect</div>
 
 <div align=center>
- <a href="https://www.reddit.com/user/Aristotle_the_lazy/">
- <img src="https://img.shields.io/badge/reddit-fc4704?&style=for-the-badge&logo=reddit&logoColor=white">
- </a>
- <a href="https://www.linkedin.com/in/manoj-joshi-6b7662166/">
+  <a href="https://www.linkedin.com/in/manoj-joshi-6b7662166/">
  <img src="https://img.shields.io/badge/linkedin-0965c1?&style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
  <a href="mailto:manoj.joshi.public@gmail.com">
