@@ -58,6 +58,8 @@ life()
 
 <div align=center>
 
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=programming&border_width=0)](https://github.com/cheehwatang/github-readme-daily-quotes)
+<a href="https://github.com/cheehwatang/github-readme-daily-quotes/actions">
+    <img alt="Tests Passing" src="https://github.com/cheehwatang/github-readme-daily-quotes/workflows/Test/badge.svg" />
+</a>
 
 </div>
