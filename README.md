@@ -58,8 +58,6 @@ life()
 
 <div align=center>
 
-<a href="https://github.com/cheehwatang/github-readme-daily-quotes/actions">
-    <img alt="Tests Passing" src="https://github.com/cheehwatang/github-readme-daily-quotes/workflows/Test/badge.svg" />
-</a>
+![quote of the day](https://github.com/cheehwatang/github-readme-daily-quotes/workflows/Test/badge.svg)
 
 </div>
