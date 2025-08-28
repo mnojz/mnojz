@@ -46,18 +46,3 @@ def myLife():
 
 life()
 ```
-## <div align=center>📈My Stats</div>
-
-<div align=center>
-
-![my Streak](https://github-readme-streak-stats.herokuapp.com/?user=manoj-here&theme=tokyonight&hide_border=true)
-
-</div>
-
-## <div align=center>🗨️Quote of the day</div>
-
-<div align=center>
-
-![quote of the day](https://github.com/cheehwatang/github-readme-daily-quotes/workflows/Test/badge.svg)
-
-</div>
