@@ -9,7 +9,7 @@
  <img src="https://img.shields.io/badge/CSS-7cebf5?&style=for-the-badge&logo=CSS3&logoColor=black">
  <img src="https://img.shields.io/badge/Js-7cebf5?&style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/Python-7cebf5?&style=for-the-badge&logo=python&logoColor=black">
- <img src="https://img.shields.io/badge/rust-7cebf5?&style=for-the-badge&logo=rust&logoColor=black">
+ <img src="https://img.shields.io/badge/tailwind-7cebf5?&style=for-the-badge&logo=tailwind&logoColor=black">
  <img src="https://img.shields.io/badge/c-7cebf5?&style=for-the-badge&logo=c&logoColor=black">
  <img src="https://img.shields.io/badge/c++-7cebf5?&style=for-the-badge&logo=cplusplus&logoColor=black">
  <img src="https://img.shields.io/badge/react-7cebf5?&style=for-the-badge&logo=react&logoColor=black">
